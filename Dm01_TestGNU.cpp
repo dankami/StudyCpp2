@@ -8,7 +8,7 @@ int main()
     cout << "Hello World" << endl;
 
     int a = 0;
-    cin >> a;
+    system("pause");
     
     return 0;
 }
